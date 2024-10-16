@@ -16,3 +16,9 @@ kaggle
   3. For Data visualization
 - SQL- Structured Query Language: For querying data
 -  Github: Portfolio building
+
+#### Data cleaning
+We performed the following actions
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
