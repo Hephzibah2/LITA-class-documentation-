@@ -1,2 +1,2 @@
 # LITA-class-documentation-
-My journey while learning data analytics 
+My journey while learning data analytics
